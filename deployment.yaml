@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: squad-2-react
-          image: 783764619143.dkr.ecr.us-east-1.amazonaws.com/mock-ecr-repo:latest
+          image: 326319537952.dkr.ecr.us-east-1.amazonaws.com/squad2-ecr
           ports:
             - containerPort: 3000  # Adjust based on your app's listening port        
 ---
